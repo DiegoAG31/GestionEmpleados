@@ -35,7 +35,7 @@
     {
         if (!ListaEmpleados.Any())
         {
-            Console.WriteLine("No hay empleados registrado5s.");
+            Console.WriteLine("No hay empleados registr5s.");
             return;
         }
         foreach (var empleado in ListaEmpleados)
